@@ -13,6 +13,7 @@
 * __Video Courses__ 
     - [Learn Go Programming](https://www.youtube.com/watch?v=YS4e4q9oBaU)   
     - [Golang Tutorial for Beginners](https://www.youtube.com/watch?v=yyUHQIec83I)  
+    - [Golang Basics Playlist](https://www.youtube.com/watch?v=JoJ8Sw5Yb4c&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)   
 * __Practice Code__   
     - [Basics Examples](GoLang/BasicPractice/)
 
