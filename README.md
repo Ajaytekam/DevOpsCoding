@@ -4,6 +4,7 @@
 - [__Python__](#python)    
 - [__Bash__](#bash)    
 - [__Powershell__](#powershell)    
+- [__Batch__](#batch)  
 
 # GoLang     
 
@@ -19,6 +20,8 @@
     - [Basics Examples](GoLang/BasicPractice/)
 
 # Python     
+
+* [My Python Notes](https://sec-art.net/python/)   
 
 # Bash   
 
