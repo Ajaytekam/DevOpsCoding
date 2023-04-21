@@ -3,6 +3,7 @@
 - [__GoLang__](#golang)   
 - [__Python__](#python)    
 - [__Bash__](#bash)    
+- [__Powershell__](#powershell)    
 
 # GoLang     
 
@@ -20,3 +21,9 @@
 # Python     
 
 # Bash   
+
+# Powershell 
+
+* [Powershell Basics](https://sec-art.net/2021/10/03/powershell-for-beginners-introduction-to-windows-powershell/)  
+* [My Powershell Notes](Powershell/README.md)   
+
